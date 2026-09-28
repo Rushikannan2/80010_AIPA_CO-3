@@ -1,0 +1,13 @@
+Object Tracking Results
+=======================
+Method: Lucas-Kanade Optical Flow
+Input video: Object Tracking.mp4
+Original resolution: 3840 x 2160
+FPS: 59.94
+Total input frames: 2250
+Processed frames: 2249
+Successful frames: 601
+Failed frames: 1648
+Success rate: 26.72%
+Tracking duration: 37.52 seconds
+Processing time: 106.23 seconds
